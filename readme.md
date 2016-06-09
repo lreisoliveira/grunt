@@ -1,7 +1,11 @@
 # Grunt
 
-- Exemplos
-- Referência: http://blog.caelum.com.br/automacao-de-build-de-front-end-com-grunt-js/
+Aplicação de linha de comando para automatizar tarefas.
+Referência: http://blog.caelum.com.br/automacao-de-build-de-front-end-com-grunt-js/
+
+##### Pré-requisitos
+
+- Node.js
 
 ## Instalação
 
