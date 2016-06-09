@@ -9,6 +9,7 @@ Aplicação de linha de comando para automatizar tarefas feito em javascript.
 
 ## Pré-requisitos
 
+- Npm
 - Node.js
 
 ## Instalação
